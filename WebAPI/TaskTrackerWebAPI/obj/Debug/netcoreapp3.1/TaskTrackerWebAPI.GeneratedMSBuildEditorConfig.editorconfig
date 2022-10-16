@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TaskTrackerWebAPI
+build_property.ProjectDir = F:\POC\Task-Tracker-Tool\TaskTrackerWebAPI\TaskTrackerWebAPI\
